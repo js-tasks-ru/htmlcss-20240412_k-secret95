@@ -1,0 +1,51 @@
+body {
+  background-color: blue;
+}
+
+h1 {
+  min-height: 100px;
+  padding: 20px 0;
+  text-align: center;
+  align-items: center;
+  font-size: 44px;
+
+  color: black;
+  background-color: aqua;
+}
+
+nav {
+  min-height: 60px;
+  padding: 20px 0;
+
+  margin-bottom: 20px;
+  
+  text-align: center;
+
+  background-color: bisque;
+}
+
+nav a {
+  font-size: 18px;
+  text-align: center;
+
+  color: red;
+}
+
+
+article {
+  margin-bottom: 20px;
+  padding: 10px 10px;
+
+  color: #fff;
+  background-color: black;
+}
+
+ul {
+  font-size: 20px;
+}
+
+footer {
+  text-align: center;
+  font-size: 50px;
+  background-color: rgb(9, 209, 119);
+}
